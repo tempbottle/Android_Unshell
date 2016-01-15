@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- button -->
+    <item type="id" name="button_Substrace">false</item>   
+    <item type="id" name="button_Mode">false</item>
+    <item type="id" name="button_Auto">false</item>
+    <item type="id" name="btn_cancel">false</item>
+     <!-- listview -->
+    <item type="id" name="list_view">false</item>
+    <item type="id" name="list.CheckBox">false</item>
+    <item type="id" name="list.name">false</item>
+    
+</resources>
